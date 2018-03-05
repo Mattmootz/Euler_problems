@@ -1,0 +1,15 @@
+
+ find all possable prime numbers first
+No even numbers 50% 
+remove all 5s from list 20% less
+
+divide each number by 2  then by 3
+ if both floats number is prime.
+add to prime array
+
+brute prime number
+
+until loop is greater than last prime.
+try to divine.
+
+
